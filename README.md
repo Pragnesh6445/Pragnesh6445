@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Scientist
 - 🌱 I’m currently student of Master of Science(Artificial Intelligence & Machine Learning)and right now I'm in last semester.  
 - 💞️ I’m looking for Intenship as Jr.Data Scientist or Machine Learning Engineer. 
-- 📫 How to reach me 
+- 📫 How to reach me, this is my Email Id: pra644536@gmail.com
 
 <!---
 Pragnesh6445/Pragnesh6445 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
